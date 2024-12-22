@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaseWeather</string>
+    <string name="city_name">苏州市</string>
+    <string name="max_temperature">最高：20°C</string>
+    <string name="weather">晴天</string>
+    <string name="low_temperature">最低：10°C</string>
+    <string name="humidity">当前湿度：65%</string>
+    <string name="wind_speed">风速：5km/h</string>
+    <string name="province">江苏省</string>
+    <string name="switch_city">切换城市</string>
+</resources>
